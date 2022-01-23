@@ -1,2 +1,2 @@
 # chill
-chill repo for git commands
+chill repo for git commands demonstration
